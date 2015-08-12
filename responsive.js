@@ -1,6 +1,5 @@
 (function ($) {
-  // Original JavaScript code.
-    
+
 $(window).resize(function(){
   $('.views_slideshow_cycle_main').each(function(){
     var cycleMain = $(this);
