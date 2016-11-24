@@ -26,4 +26,4 @@ $( window ).resize(function() {
 			cycle.data("cycle.opts.elements", cycleElements);
 		  });
        
-		});
+	});
